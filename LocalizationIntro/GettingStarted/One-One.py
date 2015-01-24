@@ -5,13 +5,10 @@ Created on Jan 24, 2015
 '''
 
 class MyClass(object):
-    '''
-    classdocs
-    '''
-    print("Veula2")
+    p=[]
+    n=5
 
-    def __init__(self, params):
-        '''
-        Constructor
-        '''
-        
+    for i in range(n):
+        p.append(1./n)
+
+        print p
