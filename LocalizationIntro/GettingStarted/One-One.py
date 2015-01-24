@@ -8,7 +8,7 @@ class MyClass(object):
     '''
     classdocs
     '''
-    print("Veula")
+    print("Veula2")
 
     def __init__(self, params):
         '''
