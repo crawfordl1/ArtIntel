@@ -1,5 +1,5 @@
 '''
-Created on Jan 24, 2015
+Created on Jan. 24, 2015
 
 @author: Wastedyu6
 
